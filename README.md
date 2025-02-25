@@ -4,11 +4,11 @@
 
 # Usage
 
-change kopechka api key\n
-change email domain (optional)
-enter proxy (optional)
-enter ref code (optional)
-python main.py
+- change kopechka api key
+- change email domain (optional)
+- enter proxy (optional)
+- enter ref code (optional)
+- python main.py
 
 # Features:
 
