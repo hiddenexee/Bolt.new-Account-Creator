@@ -4,7 +4,7 @@
 
 # Usage
 
-change kopechka api key
+change kopechka api key\n
 change email domain (optional)
 enter proxy (optional)
 enter ref code (optional)
